@@ -11,3 +11,5 @@
 - <a href="https://velog.io/@yulim2/Machine-Learning-by-Andrew-Ng-%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5-Supervised-Learning">지도 학습</a>
 
 - <a href="https://velog.io/@yulim2/Machine-Learning-by-Andrew-Ng-%EB%B9%84%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5-Unsupervised-Learning">비지도 학습</a>
+
+- <a href="https://velog.io/@yulim2/Machine-Learning-by-Andrew-Ng-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-Linear-Regression">선형 회귀</a>
